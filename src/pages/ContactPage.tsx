@@ -99,29 +99,6 @@ export const ContactPage: React.FC<ContactPageProps> = ({ defaultPremises }) => 
               </div>
             ))}
           </div>
-
-          {/* Next.js Static Source Zip Card */}
-          <div className="bg-[#F2EFE9] border border-[#E6E1D8] rounded-xl p-6 space-y-3">
-            <p className="text-xs font-mono uppercase tracking-wider text-[#0F2557] font-semibold">
-              Static Next.js JavaScript Codebase
-            </p>
-            <h3 className="font-serif-display text-lg font-bold text-[#1A1917]">
-              Download Complete Next.js + TailwindCSS Source (.zip)
-            </h3>
-            <p className="text-xs text-[#5C5852] leading-relaxed">
-              Includes the full Next.js App Router JavaScript project configured with{' '}
-              <code className="font-mono">output: &apos;export&apos;</code>, Tailwind CSS, SEO
-              JSON-LD schema, and all 6 pages ready for deployment on <code className="font-mono">cctvbaba.com</code>.
-            </p>
-            <a
-              href="/cctvbaba-nextjs-source.zip"
-              download="cctvbaba-nextjs-source.zip"
-              className="inline-flex items-center gap-2 px-4 py-2.5 text-xs font-semibold text-white bg-[#0F2557] hover:bg-[#1E3A8A] rounded-lg transition-colors"
-            >
-              <Download className="w-4 h-4" />
-              <span>Download Next.js Source (.zip)</span>
-            </a>
-          </div>
         </aside>
       </div>
     </div>

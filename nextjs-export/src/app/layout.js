@@ -63,7 +63,7 @@ const jsonLd = {
       name: 'Baba Sales',
       alternateName: 'CCTV Baba Agra',
       url: 'https://cctvbaba.com',
-      telephone: ['+91-9410254350', '+91-8047531947'],
+      telephone: ['+91-9410254350', '+91-7017511325'],
       email: 'cctvagra1@gmail.com',
       foundingDate: '2012',
       founder: {

@@ -12,7 +12,7 @@ export const BUSINESS_INFO = {
   experienceYears: '12+',
   ceo: 'Devesh Agrawal',
   primaryPhone: '+91 94102 54350',
-  secondaryPhone: '+91 8047531947',
+  secondaryPhone: '+91 7017511325',
   whatsappNumber: '919410254350',
   email: 'cctvagra1@gmail.com',
   hours: 'Monday – Sunday, 8:00 AM – 10:00 PM',
@@ -55,7 +55,7 @@ export const ROUTE_SEO: Record<PageRoute, { title: string; description: string }
   '/clients': {
     title: 'Institutional Clients & Testimonials – Agra Air Force, AMU, IIIT Lucknow',
     description:
-      'Case studies and testimonials from Agra Air Force Station, Agra University, Khandari Campus, Aligarh University & IIIT Lucknow.',
+      'Case studies and testimonials from Agra Air Force Station, Agra University, Khandari Campus, Raja Mahendra Pratap Singh University Aligarh & IIIT Lucknow.',
   },
   '/videos': {
     title: 'GMB Promotion & Installation Video Gallery – Baba Sales Agra',
@@ -395,8 +395,8 @@ export const CLIENT_CASE_STUDIES: ClientCaseStudy[] = [
     attributedRole: 'Khandari Academic Complex · Agra',
   },
   {
-    id: 'aligarh-university',
-    institution: 'Aligarh Muslim University (Aligarh Univ)',
+    id: 'raja-mahendra-pratap-singh-university',
+    institution: 'Raja Mahendra Pratap Singh University (Aligarh)',
     sector: 'Universities & EdTech',
     location: 'Aligarh, Uttar Pradesh',
     year: 'Institutional Supply & Integration',

@@ -231,7 +231,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="flex items-center gap-2">
               <ShieldCheck className="w-4 h-4 text-[#93C5FD] shrink-0" />
               <span>
-                Also trusted by <strong className="text-white">Aligarh Muslim University</strong>{' '}
+                Also trusted by <strong className="text-white">Raja Mahendra Pratap Singh University Aligarh</strong>{' '}
                 and <strong className="text-white">IIIT Lucknow</strong>
               </span>
             </div>
@@ -240,7 +240,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               onClick={() => onNavigate('/clients')}
               className="text-sm font-semibold text-white underline underline-offset-4 hover:text-[#93C5FD] cursor-pointer"
             >
-              Read Aligarh Univ &amp; IIIT Lucknow Deployments →
+              Read Raja Mahendra Pratap Singh University Aligarh &amp; IIIT Lucknow Deployments →
             </button>
           </div>
         </div>

@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Clock, ExternalLink, Mail, MapPin, Phone } from 'lucide-react';
+import { Clock, Mail, MapPin, Phone } from 'lucide-react';
 import { BUSINESS_INFO } from '../data/siteData';
 
 export default function Footer() {
@@ -89,7 +89,6 @@ export default function Footer() {
                 className="inline-flex items-center justify-center gap-2 px-3.5 py-2 text-xs font-medium text-white border border-white/25 rounded-lg hover:bg-white/10 transition-colors whitespace-nowrap"
               >
                 <span>Google Business Profile</span>
-                <ExternalLink className="w-3.5 h-3.5" />
               </a>
             </div>
           </div>

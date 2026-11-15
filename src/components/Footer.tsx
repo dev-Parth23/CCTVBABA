@@ -116,14 +116,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                 <span>Google Business Profile</span>
                 <ExternalLink className="w-3.5 h-3.5" />
               </a>
-              <a
-                href="/cctvbaba-nextjs-source.zip"
-                download="cctvbaba-nextjs-source.zip"
-                className="inline-flex items-center justify-center gap-2 px-3.5 py-2 text-xs font-semibold text-[#0F2557] bg-white rounded-lg hover:bg-[#F1F5F9] transition-colors whitespace-nowrap"
-              >
-                <Download className="w-3.5 h-3.5" />
-                <span>Download Next.js Source (.zip)</span>
-              </a>
+             
             </div>
           </div>
         </div>

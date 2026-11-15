@@ -3,7 +3,7 @@ import ClientsFilterList from '../../components/ClientsFilterList';
 export const metadata = {
   title: 'Institutional Clients & Testimonials – Agra Air Force, AMU, IIIT Lucknow',
   description:
-    'Case studies and testimonials from Agra Air Force Station, Agra University, Khandari Campus, Aligarh University & IIIT Lucknow.',
+    'Case studies and testimonials from Agra Air Force Station, Agra University, Khandari Campus(Agra), Raja Mahendra Pratap Singh University(Aligarh) & IIIT Lucknow.',
 };
 
 export default function ClientsPage() {
