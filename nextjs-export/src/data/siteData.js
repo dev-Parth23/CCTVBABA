@@ -17,12 +17,6 @@ export const BUSINESS_INFO = {
       address:
         'Agrasen Road, near Nature Resort, Renuka Bagh, Bhur Ka Bagh, G.G. Puram, Kamla Nagar, Agra, Uttar Pradesh 282005',
     },
-    {
-      id: 'sanjay-place',
-      label: 'Commercial Branch · Sanjay Place',
-      address:
-        'G-24, Block 17, Cloth Market (Kapda Market), Near G.G. Hospital, Sanjay Place, Agra, Uttar Pradesh 282002',
-    },
   ],
 };
 

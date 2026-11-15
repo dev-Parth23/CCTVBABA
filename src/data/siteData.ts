@@ -25,14 +25,7 @@ export const BUSINESS_INFO = {
       address:
         'Agrasen Road, near Nature Resort, Renuka Bagh, Bhur Ka Bagh, G.G. Puram, Kamla Nagar, Agra, Uttar Pradesh 282005',
       shortAddress: 'Agrasen Road, Kamla Nagar, Agra 282005',
-    },
-    {
-      id: 'sanjay-place',
-      label: 'Commercial Branch · Sanjay Place',
-      address:
-        'G-24, Block 17, Cloth Market (Kapda Market), Near G.G. Hospital, Sanjay Place, Agra, Uttar Pradesh 282002',
-      shortAddress: 'G-24, Block 17, Sanjay Place, Agra 282002',
-    },
+    }
   ],
 };
 
@@ -65,7 +58,7 @@ export const ROUTE_SEO: Record<PageRoute, { title: string; description: string }
   '/contact': {
     title: 'Contact Baba Sales Agra – Request Free Site Survey | cctvbaba.com',
     description:
-      'Book a free site visit in Agra or request a GeM institutional quote. Call +91 94102 54350 or visit our Kamla Nagar & Sanjay Place offices.',
+      'Book a free site visit in Agra or request a GeM institutional quote. Call +91 94102 54350 or visit our Kamla Nagar office.',
   },
 };
 

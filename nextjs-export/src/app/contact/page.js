@@ -5,7 +5,7 @@ import EnquiryForm from '../../components/EnquiryForm';
 export const metadata = {
   title: 'Contact Baba Sales Agra – Request Free Site Survey',
   description:
-    'Book a free site visit in Agra or request a GeM institutional quote. Call +91 94102 54350 or visit our Kamla Nagar & Sanjay Place offices.',
+    'Book a free site visit in Agra or request a GeM institutional quote. Call +91 94102 54350 or visit our Kamla Nagar office.',
 };
 
 export default function ContactPage() {
@@ -19,7 +19,7 @@ export default function ContactPage() {
           Book a free site visit or request an institutional quote.
         </h1>
         <p className="mt-4 text-base sm:text-lg text-[#5C5852] leading-relaxed">
-          Reach our Kamla Nagar or Sanjay Place office seven days a week. Every enquiry goes
+          Reach our Kamla Nagar office seven days a week. Every enquiry goes
           directly to {BUSINESS_INFO.ceo} and our Agra engineering desk.
         </p>
       </header>

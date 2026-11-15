@@ -90,16 +90,7 @@ const jsonLd = {
           addressRegion: 'Uttar Pradesh',
           postalCode: '282005',
           addressCountry: 'IN',
-        },
-        {
-          '@type': 'PostalAddress',
-          name: 'Sanjay Place Commercial Office',
-          streetAddress: 'G-24, Block 17, Cloth Market (Kapda Market), Near G.G. Hospital, Sanjay Place',
-          addressLocality: 'Agra',
-          addressRegion: 'Uttar Pradesh',
-          postalCode: '282002',
-          addressCountry: 'IN',
-        },
+        }
       ],
     },
   ],

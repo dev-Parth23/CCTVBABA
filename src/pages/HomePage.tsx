@@ -281,7 +281,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             </h2>
             <p className="mt-3 text-base text-[#5C5852] leading-relaxed">
               Speak directly with {BUSINESS_INFO.ceo} and our engineering team. Visit our Kamla
-              Nagar or Sanjay Place office, or schedule a complimentary site inspection today.
+              Nagar office, or schedule a complimentary site inspection today.
             </p>
           </div>
           <div className="flex flex-wrap items-center gap-3 shrink-0">
