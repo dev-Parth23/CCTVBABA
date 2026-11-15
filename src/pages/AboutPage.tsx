@@ -106,13 +106,12 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
             7-Day Local Support
           </h2>
           <p className="text-sm text-[#5C5852] leading-relaxed">
-            Open {BUSINESS_INFO.hours} across two physical Agra offices, ensuring spare parts, NVR
+            Open {BUSINESS_INFO.hours} across Agra office, ensuring spare parts, NVR
             servicing, and urgent troubleshooting are always close at hand.
           </p>
         </div>
       </section>
 
-      {/* Two Offices + Authorized Brands */}
       <section className="grid grid-cols-1 lg:grid-cols-12 gap-8">
         <div className="lg:col-span-7 bg-white border border-[#E6E1D8] rounded-xl p-6 sm:p-8 space-y-6">
           <div>
@@ -120,7 +119,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
               Physical Presence in Agra
             </p>
             <h2 className="font-serif-display text-2xl font-bold text-[#1A1917]">
-              Two Accessible Offices for Walk-Ins &amp; Procurement
+              Accessible Office for Walk-Ins &amp; Procurement
             </h2>
           </div>
 

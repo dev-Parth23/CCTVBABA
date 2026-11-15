@@ -95,7 +95,7 @@ export default function AboutPage() {
           <Building className="w-6 h-6 text-[#C2410C]" />
           <h2 className="font-serif-display text-xl font-bold text-[#1A1917]">7-Day Local Support</h2>
           <p className="text-sm text-[#5C5852] leading-relaxed">
-            Open {BUSINESS_INFO.hours} across two physical Agra offices, keeping spare parts and
+            Open {BUSINESS_INFO.hours} across Agra office, keeping spare parts and
             urgent servicing close at hand.
           </p>
         </div>
@@ -104,7 +104,7 @@ export default function AboutPage() {
       <section className="grid grid-cols-1 lg:grid-cols-12 gap-8">
         <div className="lg:col-span-7 bg-white border border-[#E6E1D8] rounded-xl p-6 sm:p-8 space-y-6">
           <h2 className="font-serif-display text-2xl font-bold text-[#1A1917]">
-            Two Accessible Offices in Agra
+            Accessible Office in Agra
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             {BUSINESS_INFO.offices.map((office) => (
