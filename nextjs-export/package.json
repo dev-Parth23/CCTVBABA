@@ -1,11 +1,12 @@
+
 {
-  "name": "cctvbaba-nextjs-portfolio",
+  "name": "cctvbaba.com",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "npx serve@latest out"
+    "start": "next start"
   },
   "dependencies": {
     "lucide-react": "^0.546.0",
